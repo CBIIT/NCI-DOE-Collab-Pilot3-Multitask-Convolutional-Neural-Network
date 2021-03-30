@@ -13,7 +13,8 @@ Data scientists can train the provided untrained model on their own data, or use
 Classification of unstructured text is a classical problem in natural language processing. The community has developed state-of-the-art models like BERT, Bio-BERT, and Transformer. This model has the advantage of working on a relatively long report (that is, over 400 words) and shows robustness in terms of accuracy and speed with relatively small number of unstructured pathology reports. 
 
 ### Components
-The following components are in the Model and Data Clearinghouse ([MoDaC](https://modac.cancer.gov/searchTab?dme_data_id=NCI-DME-MS01-7330732)):
+The following components are in the [MultiTask Convolutional Neural Network (MT-CNN)](https://modac.cancer.gov/searchTab?dme_data_id=NCI-DME-MS01-7330732)
+dataset and the [ML Ready Pathology Reports](https://modac.cancer.gov/searchTab?dme_data_id=NCI-DME-MS01-7423964) dataset in the Model and Data Clearinghouse (MoDaC):
 * Original and processed training, validation, and test data.
 * Untrained neural network model.
 * Trained model weights and topology to be used in inference.
