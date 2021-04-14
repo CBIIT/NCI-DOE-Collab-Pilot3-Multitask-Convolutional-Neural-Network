@@ -114,7 +114,7 @@ Here is example output from running the script:
    ```
 
 ### Inference on a Single Report
-To test the model in inference mode for a single report, run the script (predictions.py_[./predictions.py]. 
+To test the model in inference mode for a single report, run the script (predictions.py)[./predictions.py]. 
 
 This script accepts as input a single text report, runs inference, and displays the true labels and the inferenced labels. If no report is specified, the script uses a default report for prediction, as in the following example output: 
 
