@@ -98,7 +98,7 @@ task histology test f-score: 0.8184,0.4192
 
 ### Inference on Test Dataset
 To test the trained model in inference:
-1. Download the trained model by running the script [download_model.py](./data_utils/download_model.py). 
+1. Download the trained model by running the script [./data_utils/download_model.py](./data_utils/download_model.py). 
 2. Run the script [mt_cnn_infer.py](mt_cnn_infer.py) which performs the following:
    * Performs inference on the test dataset.
    * Reports the micro, macro F1 scores of the model on the test dataset.
