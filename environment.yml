@@ -22,3 +22,4 @@ dependencies:
   - torchvision=0.4.2
   - tqdm=4.59.0
   - transformers=4.4.2
+  - jupyterlab
